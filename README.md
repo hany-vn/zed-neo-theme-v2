@@ -28,7 +28,7 @@ Refer to the JSON file for the full color mappings used in the theme.
 
 You can customize the theme further by editing the JSON theme file:
 
-- Open the Command Palette and select `Preferences: Open Theme Folder` 
+- Open the Command Palette and select `Open Theme Folder` 
 - Open the `Ultimate Dark Neo.json` file
 - Make any desired changes to the colors
 - Save the file and reload Zed for the changes to take effect
